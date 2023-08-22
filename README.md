@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aman Rastogi</h1>
+<h1 align="center">Hi 👋, I'm Aditya Rastogi</h1>
 
 - 🔭 I’m currently working on **some javascript projects**
 
