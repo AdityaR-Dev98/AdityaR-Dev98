@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aditya Rastogi</h1>
 
-- 🔭 I’m currently working on **some javascript projects**
+- 🔭 I’m currently working on **some Web Development Projects**
 
-- 🌱 I’m currently learning **Java, Android Development...**
+- 🌱 I’m currently learning **Java, Android Development, Data Structures**
+
+- 😸 I find technical research intriguing on topics such as cybersecurity and power electronics.
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaR-Dev98)
 
