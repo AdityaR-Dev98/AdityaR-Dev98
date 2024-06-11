@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Rastogi</h1>
 
-- 🔭 I’m currently working on **some Web Development Projects**
+- 🔭 I’m currently working on **some App Development Projects**
 
 - 🌱 I’m currently learning **Java, Android Development, Data Structures**
 
