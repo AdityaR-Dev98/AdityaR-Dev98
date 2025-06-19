@@ -34,7 +34,7 @@
 - 🧠 **Metaverse Applications**
 - ⚙️ **Industrial Intelligence & Innovation**
 
-🔗 **Google Scholar:** [View My Profile](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID_HERE)
+🔗 **Google Scholar:** [View My Profile](https://scholar.google.com/citations?user=2gk2skoAAAAJ&hl=en)
 
 ---
 
