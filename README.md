@@ -12,12 +12,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdityaR-Dev98&show_icons=true&theme=radical" alt="Aditya's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaR-Dev98&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AdityaR-Dev98&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph">
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaR-Dev98&theme=monokai" width="90%">
