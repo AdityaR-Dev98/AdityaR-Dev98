@@ -22,7 +22,7 @@ I’m passionate about blending **intelligent systems**, **renewable energy tech
 
 | Domain | Keywords |
 |--------|----------|
-| **Electric Vehicles & Power Systems** | Fault Detection, BMS, Optimization, Thermal & Energy Models |
+| **Electric Vehicles** | Fault Detection, BMS, Optimization, Thermal & Energy Models |
 | **AI & Automation** | ML/DL, Predictive Maintenance, Sensor Intelligence |
 | **Cybersecurity** | IDS, Network Forensics, Blockchain Security |
 | **Digital Twins** | Real-Time Simulation, Virtual Modeling |
@@ -57,7 +57,7 @@ I’m passionate about blending **intelligent systems**, **renewable energy tech
 - Network intrusion detection & log analytics
 - Memory analysis, malware forensics, threat visualization systems
 
-⚡ **EV & Power Engineering**
+⚡ **EV & Energy**
 - Digital twin-based EV fault detection
 - PV-battery-EV energy optimization
 
