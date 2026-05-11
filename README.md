@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
- 🔭 Currently focused on <strong>App Development, Cyber Forensics & Energy Research</strong><br>
+ 🔭 Currently focused on <strong>Software Development, Cyber Forensics & Energy Research</strong><br>
  🌱 Learning <strong>Java, Android Development & Data Structures</strong><br>
  🧠 Exploring <strong>Cybersecurity, Digital Twins, EV Fault Analytics & Smart Grids</strong>
 </p>
