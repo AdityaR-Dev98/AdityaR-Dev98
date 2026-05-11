@@ -1,6 +1,6 @@
 
 <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hello%F0%9F%91%8B+I'm+Aditya+Rastogi;Academic+Research+Software+Developer+%7C+Cybersecurity+Enthusiast;Energy+%7C+Digital+Twins+%7C+AI%2FML;Always+learning%2C+building+and+innovating!"
+  src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hello%F0%9F%91%8B+I'm+Aditya+Rastogi;Academic+Research+%7C+Software+Developer+%7C+Cybersecurity+Enthusiast;Energy+%7C+Digital+Twins+%7C+AI%2FML;Always+learning%2C+building+and+innovating!"
   alt="Typing SVG"
 />
 
